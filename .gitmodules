@@ -1,0 +1,9 @@
+[submodule "WhoAmI-Today-backend"]
+	path = WhoAmI-Today-backend
+	url = https://github.com/GooJinSun/WhoAmI-Today-backend.git
+[submodule "WhoAmI-Today-app"]
+	path = WhoAmI-Today-app
+	url = https://github.com/GooJinSun/WhoAmI-Today-app.git
+[submodule "WhoAmI-Today-frontend"]
+	path = WhoAmI-Today-frontend
+	url = https://github.com/GooJinSun/WhoAmI-Today-frontend.git
