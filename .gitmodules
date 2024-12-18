@@ -7,3 +7,6 @@
 [submodule "WhoAmI-Today-frontend"]
 	path = WhoAmI-Today-frontend
 	url = https://github.com/GooJinSun/WhoAmI-Today-frontend.git
+[submodule "WhoamI-Today-frontend-workspace"]
+	path = WhoamI-Today-frontend-workspace
+	url = https://github.com/ssm0318/WhoamI-Today-frontend-workspace.git
